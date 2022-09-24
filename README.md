@@ -1,4 +1,4 @@
-# CardMarketScrape
+# cardmarket
 
 ## Description
 
